@@ -1,0 +1,17 @@
+{
+  "name": "cr-mongo",
+  "version": "1.0.0",
+  "description": "用于nodejs端使用的mongo连接器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "cairui",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}
